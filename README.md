@@ -10,8 +10,9 @@ Threads T=6: CPU Usage: 155.4%
 Threads T=7: CPU Usage: 179.5%
 Threads T=8: CPU Usage: 162.0%
 
-![image](https://github.com/SakshiGoyal001/multi-threading/assets/100338507/c92176b9-41c5-49bb-85e4-8faebde0c95a)
-![image](https://github.com/SakshiGoyal001/multi-threading/assets/100338507/a3738586-a43c-478d-a69c-16bc064e543a)
+![image](https://github.com/SakshiGoyal001/multi-threading/assets/100338507/15c2920c-53a0-4120-a5f3-a08fb653282f)
+![image](https://github.com/SakshiGoyal001/multi-threading/assets/100338507/9c692976-c7bb-4c8c-ad5f-cd7ed22ce232)
+
 
 Time vs Number of Threads Table:
 
