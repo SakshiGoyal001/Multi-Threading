@@ -3,14 +3,14 @@
 # multi-threading
 
 Output:
-Threads T=1: CPU Usage: 113.9%\n
-Threads T=2: CPU Usage: 99.0%\n
-Threads T=3: CPU Usage: 154.6%\n
-Threads T=4: CPU Usage: 155.2%\n
-Threads T=5: CPU Usage: 162.4%\n
-Threads T=6: CPU Usage: 155.4%\n
-Threads T=7: CPU Usage: 179.5%\n
-Threads T=8: CPU Usage: 162.0%\n
+Threads T=1: CPU Usage: 113.9% \n
+Threads T=2: CPU Usage: 99.0% \n
+Threads T=3: CPU Usage: 154.6% \n
+Threads T=4: CPU Usage: 155.2% \n
+Threads T=5: CPU Usage: 162.4% \n
+Threads T=6: CPU Usage: 155.4% \n
+Threads T=7: CPU Usage: 179.5% \n
+Threads T=8: CPU Usage: 162.0% \n
 
 
 ![image](https://github.com/SakshiGoyal001/multi-threading/assets/100338507/15c2920c-53a0-4120-a5f3-a08fb653282f)
