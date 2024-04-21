@@ -8,6 +8,7 @@
 
 
 Time vs Number of Threads Table:
+
 ![image](https://github.com/SakshiGoyal001/multi-threading/assets/100338507/a70f076c-0c35-41d9-b52f-0cd6e3f8d849)
 
 
